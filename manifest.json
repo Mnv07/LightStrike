@@ -1,0 +1,8 @@
+{
+  "main.MoveForward": {
+    "display_name": "Game",
+    "short_name": "Game",
+    "hint": "Move sporatically to avoid user with laser",
+    "explanation": "When the user presses start the vehicle will move around in a random way."
+  }
+}
