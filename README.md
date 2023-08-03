@@ -6,7 +6,7 @@ or in a simulation on the Skydio's Mobile App.
 
 ## How we built it
 We used SkyDio’s built in methods for “skill” creation. Essentially, a skill is a program that will operate and cause actions on the drone after being selected by the user in the drone’s interface.
-We had to use Python to create movement patterns and a score count, and we used an Arduino board, IR receiver, and IR emitter to detect when the drone is hit but the player. 
+We had to use Python to create movement patterns and a score count, and we used an Arduino board, IR receiver, and IR emitter to detect when the drone is hit by the player. 
 
 
 ## Challenges we ran into
